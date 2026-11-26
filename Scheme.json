@@ -1,0 +1,22 @@
+{
+  "Theme": "Soft-Pointer",
+  "Roles": {
+    "Arrow": "Motions/normal-cycle.ani",
+    "Help": "Motions/role-help.ani",
+    "AppStarting": "Motions/role-app-starting.ani",
+    "Wait": "Motions/role-wait.ani",
+    "Crosshair": "Motions/role-precision.ani",
+    "IBeam": "Motions/role-text.ani",
+    "NWPen": "Motions/role-pen.ani",
+    "No": "Motions/role-unavailable.ani",
+    "SizeNS": "Motions/role-size-ns.ani",
+    "SizeWE": "Motions/role-size-we.ani",
+    "SizeNWSE": "Motions/role-size-nwse.ani",
+    "SizeNESW": "Motions/role-size-nesw.ani",
+    "SizeAll": "Motions/role-move.ani",
+    "UpArrow": "Motions/role-alternate.ani",
+    "Hand": "Motions/role-link.ani",
+    "Pin": "Motions/role-location.ani",
+    "Person": "Motions/role-person.ani"
+  }
+}
